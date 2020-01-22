@@ -1,0 +1,152 @@
+
+ Configurações do computador do usuário
+sábado, 19 de maio de 2018  15:20:17
+ -------------------------------------------------------------------------------------------------- 
+
+ -------------------------------------------------------------------------------------------------- 
+Computador Nome: ANALISTA-PC
+ -------------------------------------------------------------------------------------------------- 
+Resoluçao de tela:   {X=0,Y=0,Width=1360,Height=728}
+ -------------------------------------------------------------------------------------------------- 
+Versão do Windows: Microsoft Windows 7 Ultimate 
+ --------------------------------------------------------------------------------------------------- 
+Idioma:     pt-BR
+ -------------------------------------------------------------------------------------------------- 
+Memória física total:   4185759744
+ -------------------------------------------------------------------------------------------------- 
+Plataforma: Win32NT
+ -------------------------------------------------------------------------------------------------- 
+Endereço Mac:     
+ -------------------------------------------------------------------------------------------------- 
+Tela_Bits Por Pixel:     1360
+ -------------------------------------------------------------------------------------------------- 
+Detalhes da memória física:     926150656
+ -------------------------------------------------------------------------------------------------- 
+Memória virtual total:     8796092891136
+ -------------------------------------------------------------------------------------------------- 
+Domínio:     ANALISTA-PC
+ -------------------------------------------------------------------------------------------------- 
+Computador Nome: Analista-PC Endereço IP: 192.168.0.102
+ -------------------------------------------------------------------------------------------------- 
+Aplicativo está sendo iniciado em:     D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\bin\Debug
+ -------------------------------------------------------------------------------------------------- 
+Unidade disponível C:\
+Unidade disponível D:\
+-------------------------------------------------------------------------------------------------- 
+Computador Fabricante: MEGAWARE
+Computador modelo: MW-H61M-2H
+Processador: Intel(R) Celeron(R) CPU G1610 @ 2.60GHz
+Modelo de arquitetura: Intel64 Family 6 Model 58 Stepping 9
+Processador velocidade: 2,5 GHz
+Processador Fabricante: GenuineIntel
+Mémoria física total (RAM): 4185759744
+-------------------------------------------------------------------------------------------------- 
+Processos em execução nesta máquina ↓↓↓↓ segue lista abaixo
+-------------------------------------------------------------------------------------------------- 
+Nome da imagem            Identifi Nome da sessÆo       SessÆo# Uso de mem¢r
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0     14.204 K
+smss.exe                       276 Services                   0        940 K
+csrss.exe                      440 Services                   0      4.120 K
+wininit.exe                    512 Services                   0      3.672 K
+csrss.exe                      528 Console                    1     47.600 K
+services.exe                   560 Services                   0      8.808 K
+lsass.exe                      584 Services                   0     10.772 K
+lsm.exe                        592 Services                   0      3.648 K
+winlogon.exe                   624 Console                    1      5.316 K
+svchost.exe                    736 Services                   0      8.168 K
+nvvsvc.exe                     800 Services                   0      5.304 K
+nvSCPAPISvr.exe                824 Services                   0      4.932 K
+svchost.exe                    868 Services                   0      7.368 K
+MsMpEng.exe                    916 Services                   0    115.092 K
+svchost.exe                    304 Services                   0     17.860 K
+svchost.exe                    460 Services                   0    143.256 K
+svchost.exe                    532 Services                   0     29.052 K
+svchost.exe                   1092 Services                   0     14.876 K
+igfxCUIService.exe            1184 Services                   0      5.692 K
+svchost.exe                   1332 Services                   0     15.456 K
+spoolsv.exe                   1492 Services                   0      7.588 K
+svchost.exe                   1520 Services                   0     12.892 K
+armsvc.exe                    1596 Services                   0      3.096 K
+AdobeUpdateService.exe        1656 Services                   0      3.548 K
+AGSService.exe                1700 Services                   0      6.440 K
+GfExperienceService.exe       1780 Services                   0      6.480 K
+IpOverUsbSvc.exe              1852 Services                   0      9.596 K
+MsDtsSrvr.exe                 2016 Services                   0     10.984 K
+sqlservr.exe                   952 Services                   0    103.820 K
+msmdsrv.exe                   1984 Services                   0     18.120 K
+NvNetworkService.exe          1056 Services                   0      6.008 K
+NvStreamService.exe           2068 Services                   0      8.144 K
+PnkBstrA.exe                  2128 Services                   0      3.572 K
+PsiService_2.exe              2152 Services                   0      2.920 K
+ReportingServicesService.     2244 Services                   0     50.908 K
+sqlwriter.exe                 2320 Services                   0      4.612 K
+svchost.exe                   2340 Services                   0      4.220 K
+taskhost.exe                  2788 Console                    1      8.992 K
+dwm.exe                       2936 Console                    1     26.944 K
+explorer.exe                  2988 Console                    1    163.364 K
+RAVCpl64.exe                  1424 Console                    1      8.504 K
+msseces.exe                   2220 Console                    1     10.820 K
+NvBackend.exe                 3100 Console                    1     12.092 K
+sidebar.exe                   3636 Console                    1     18.960 K
+fdlauncher.exe                3992 Services                   0      3.044 K
+PresentationFontCache.exe     4032 Services                   0     12.060 K
+fdhost.exe                    4072 Services                   0      3.612 K
+conhost.exe                   3112 Services                   0      2.236 K
+GoogleCrashHandler.exe        3972 Services                   0        972 K
+SearchIndexer.exe             3316 Services                   0     28.120 K
+GoogleCrashHandler64.exe      1712 Services                   0        528 K
+igfxEM.exe                    1160 Console                    1      7.384 K
+igfxHK.exe                     432 Console                    1      6.320 K
+igfxTray.exe                  4104 Console                    1      7.880 K
+NisSrv.exe                    4116 Services                   0      2.696 K
+svchost.exe                   4412 Services                   0      4.568 K
+NvStreamNetworkService.ex     4512 Services                   0      8.744 K
+svchost.exe                   4764 Services                   0     39.596 K
+NvStreamUserAgent.exe         4840 Console                    1      7.948 K
+conhost.exe                   4904 Console                    1      3.904 K
+devenv.exe                    5048 Console                    1    394.452 K
+chrome.exe                     852 Console                    1    148.472 K
+chrome.exe                    1248 Console                    1      4.968 K
+chrome.exe                     764 Console                    1      4.692 K
+chrome.exe                    1644 Console                    1     80.628 K
+chrome.exe                    3716 Console                    1    403.992 K
+audiodg.exe                   4316 Services                   0     20.328 K
+chrome.exe                    4440 Console                    1      8.440 K
+chrome.exe                    3188 Console                    1    100.524 K
+Microsoft.Alm.Shared.Remo      680 Console                    1     64.288 K
+notepad.exe                   4220 Console                    1      6.832 K
+chrome.exe                    1560 Console                    1    283.240 K
+chrome.exe                    1672 Console                    1    123.280 K
+devenv.exe                    5920 Console                    1    333.424 K
+Microsoft.Alm.Shared.Remo     5940 Console                    1     73.864 K
+FileZilla Server Interfac     5748 Console                    1     11.364 K
+mmc.exe                       5544 Console                    1     16.704 K
+FileZilla Server.exe          5184 Services                   0     10.500 K
+Spy_manager.vshost.exe        5396 Console                    1     14.384 K
+IntelliTrace.exe              4612 Console                    1     38.576 K
+conhost.exe                   5212 Console                    1      3.532 K
+taskeng.exe                   3820 Services                   0      5.028 K
+WmiPrvSE.exe                  5200 Services                   0      9.012 K
+Processo de Host para Ser     3952 Console                    1     38.308 K
+msvsmon.exe                   5984 Console                    1     51.196 K
+IntelliTrace.exe              1404 Console                    1     35.672 K
+conhost.exe                   1472 Console                    1      3.532 K
+tasklist.exe                  4168 Console                    1      5.680 K
+conhost.exe                   5024 Console                    1      3.476 K
+
+-------------------------------------------------------------------------------------------------- 
+ Corpo do E-mail logo abaixo: Mensagens intervalo 1 minutos 
+-------------------------------------------↓----------------------------------------------------- 
+
+
+
+Processo de Host para Serviço do Windows (Running) - Microsoft Visual Studio (Administrator)
+servidor = oXML.SelectSingleNode("config").ChildNodes(0).InnerText
+
+
+servidor = oXML.SelectSingleNode("config").ChildNodes(0).InnerText
+
+FileZilla Server (127.0.0.1)
+servidor = oXML.SelectSingleNode("config").ChildNodes(0).InnerText

@@ -1,0 +1,9 @@
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\bin\Debug\Processo de Host para Serviço do Windows.exe
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\bin\Debug\Processo de Host para Serviço do Windows.pdb
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\bin\Debug\Processo de Host para Serviço do Windows.xml
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo_de_Host_para_Serviço_do_Windows.form1.resources
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo_de_Host_para_Serviço_do_Windows.Resources.resources
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo de Host para Serviço do Windows.vbproj.GenerateResource.Cache
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo de Host para Serviço do Windows.exe
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo de Host para Serviço do Windows.xml
+D:\1-Daniel\1-Análise e desenvolvimento de sistemas\1- TADS 2015 a 2018\5-Projetos de programas\VB\Projetospycompleto\Projetospy-completo\projetoSpy\obj\Debug\Processo de Host para Serviço do Windows.pdb

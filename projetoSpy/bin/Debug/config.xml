@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<!--Arquivos de config-->
+
+<config>
+
+  <ip_servidor>analista-pc</ip_servidor>
+  <pasta>c:/teste.txt</pasta>
+  <usuarioftp>analista_pc</usuarioftp>
+  <senhaftp>123456</senhaftp>
+  <intervalo>60000</intervalo>
+</config>
